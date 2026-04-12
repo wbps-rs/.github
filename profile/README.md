@@ -1,6 +1,6 @@
 # About Us
 
-wbps is a free and open-source WASM based plugin service for bots, webhooks, automations and more.
+wpbs is a free and open-source WASM based plugin service for bots, webhooks, automations and more.
 
 Visit our [website][website] for the dashboard, self-hosting instructions, blogs, and documentation.
 
@@ -13,9 +13,9 @@ Within our GitHub organization, you'll find several open-source projects,
 including:
 
 - **[website][website-repo]** – View the dashboard, read the blogs, and explore docs
-- **[wbps][wbps-repo]** – The core system, powered by Rust.
+- **[wpbs][wpbs-repo]** – The core system, powered by Rust.
 
-[website]: https://wbps.celarye.dev
+[website]: https://wpbs.celarye.dev
 [discord-server]: https://discord.gg/3bgCdYRupn
-[website-repo]: https://github.com/wbps-rs/website
-[wbps-repo]: https://github.com/wbps-rs/wbps
+[website-repo]: https://github.com/wpbs-rs/website
+[wpbs-repo]: https://github.com/wpbs-rs/wpbs
